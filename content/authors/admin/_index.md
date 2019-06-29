@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I am a geospatial ecologist who uses remote sensing and spatial data analytics to improve land management in tropical landscapes. My research interests include natural capital accounting, functional landscape rehabilitation, and computer vision.
+bio: I am a geospatial ecologist who uses remote sensing and spatial data analytics to improve land management in tropical landscapes. My research interests include natural capital accounting, functional landscape rehabilitation, and computer vision for science communication.
 education:
   courses:
   - course: PhD in Landscape Ecology
@@ -10,9 +10,7 @@ education:
   - course: BSc Honours in Botany
     institution: University of the Witwatersrand
     year: 2002
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+
 email: ""
 interests:
 - Geoinformatics
@@ -42,6 +40,6 @@ user_groups:
 - Visitors
 ---
 
-Shaun Levick is an Associate professor of Remote Sensing at Charles Darwin University and the CSIRO.
+Shaun Levick is an Associate Professor of Remote Sensing at Charles Darwin University and the CSIRO.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
