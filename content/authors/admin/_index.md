@@ -5,18 +5,18 @@ bio: I am a geospatial ecologist who uses remote sensing and spatial data analyt
 education:
   courses:
   - course: PhD in Landscape Ecology
-    institution: University of teh Witwatersrand
+    institution: University of the Witwatersrand
     year: 2008
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  - course: BSc Honours in Botany
+    institution: University of the Witwatersrand
+    year: 2002
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
 email: ""
 interests:
-- LiDAR / RADAR
-- Fire ecology
+- Geoinformatics
+- Landscape ecology
 - Teaching spatial data science
 name: Shaun R Levick
 organizations:
