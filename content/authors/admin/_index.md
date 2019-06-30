@@ -40,6 +40,4 @@ user_groups:
 - Visitors
 ---
 
-Shaun Levick is an Associate Professor of Remote Sensing at Charles Darwin University and the CSIRO.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Shaun Levick is an Associate Professor of Remote Sensing at Charles Darwin University and the CSIRO. He uses remote sensing and spatial data analytics to improve land management in tropical landscapes. His research interests include natural capital accounting, functional landscape rehabilitation, and computer vision for science communication.
