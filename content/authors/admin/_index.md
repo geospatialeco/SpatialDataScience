@@ -2,7 +2,7 @@
 authors:
 - admin
 bio: I am a geospatial ecologist who uses remote sensing and spatial data analytics to improve land management in tropical landscapes. My research interests include natural capital accounting, functional landscape rehabilitation, and computer vision for science communication.
-Teaching:
+education:
   courses:
   - course: PhD in Landscape Ecology
     institution: University of the Witwatersrand
@@ -12,7 +12,7 @@ Teaching:
     year: 2002
 
 email: ""
-Research interests:
+interests:
 - Geoinformatics
 - Landscape ecology
 - Teaching spatial data science
@@ -20,7 +20,7 @@ name: Shaun R Levick
 organizations:
 - name: Charles Darwin University
   url: ""
-role: Associate Professor of Remote Sensing
+role: Associate Professor
 social:
 - icon: envelope
   icon_pack: fas
@@ -40,4 +40,4 @@ user_groups:
 - Visitors
 ---
 
-Shaun Levick is an Associate Professor of Remote Sensing at Charles Darwin University and the CSIRO. He uses remote sensing and spatial data analytics to improve land management in tropical landscapes. His research interests include natural capital accounting, functional landscape rehabilitation, and computer vision for science communication.
+Welcome to the GEARS Lab! Shaun Levick is an Associate Professor of Remote Sensing at Charles Darwin University and the CSIRO. His research lab uses remote sensing and spatial data analytics to improve land management in tropical landscapes. Research interests include natural capital accounting, functional landscape rehabilitation, and computer vision for science communication.
