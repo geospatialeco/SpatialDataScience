@@ -16,7 +16,7 @@ subtitle = "Research, teaching and consulting expertise"
 
 [[feature]]
   icon = "satellite"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Remote Sensing"
   description = "Earth Observation"
 
