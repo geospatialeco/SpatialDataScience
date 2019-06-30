@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I am a geospatial ecologist who uses remote sensing and spatial data analytics to improve land management in tropical landscapes. My research focusses on natural capital accounting, landscape rehabilitation, and computer vision for science communication.
+bio: I am a geospatial ecologist who uses remote sensing and spatial data analytics to improve land management outcomes in tropical ecosystems. My research focusses on natural capital accounting, landscape rehabilitation, and computer vision for science communication.
 teaching:
   courses:
   - course: Remote Sensing
@@ -41,4 +41,4 @@ user_groups:
 - Visitors
 ---
 
-My research uses remote sensing and spatial data analytics to improve land management outcomes in tropical landscapes. Research interests include fire ecology, natural capital accounting, landscape rehabilitation, and computer vision for science communication.
+My research uses remote sensing and spatial data analytics to improve land management outcomes in tropical ecosystems. Research interests include fire ecology, natural capital accounting, landscape rehabilitation, and computer vision for science communication.
