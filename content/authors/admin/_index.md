@@ -4,12 +4,12 @@ authors:
 bio: I am a geospatial ecologist who uses remote sensing and spatial data analytics to improve land management in tropical landscapes. My research interests include natural capital accounting, functional landscape rehabilitation, and computer vision for science communication.
 education:
   courses:
-  - course: PhD in Landscape Ecology
-    institution: University of the Witwatersrand
-    year: 2008
-  - course: BSc Honours in Botany
-    institution: University of the Witwatersrand
-    year: 2002
+  - course: Remote Sensing
+    institution: ENV 202 / 502
+    year:
+  - course: Environmental Monitoring
+    institution: ENV 306 / 506
+    year:
 
 email: ""
 interests:
