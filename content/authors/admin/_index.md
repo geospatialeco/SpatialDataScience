@@ -40,4 +40,4 @@ user_groups:
 - Visitors
 ---
 
-Welcome to the GEARS Lab! Shaun Levick is an Associate Professor of Remote Sensing at Charles Darwin University and the CSIRO. His research lab uses remote sensing and spatial data analytics to improve land management in tropical landscapes. Research interests include natural capital accounting, functional landscape rehabilitation, and computer vision for science communication.
+Welcome! The GEARS Lab is led by Associate Professor Shaun Levick and is based at Charles Darwin University and the CSIRO in Darwin, Australia. Our research lab uses remote sensing and spatial data analytics to improve land management outcomes in tropical landscapes. Research interests include fire ecology, natural capital accounting, functional landscape rehabilitation, and computer vision for science communication.
