@@ -30,6 +30,6 @@ subtitle = ""
   icon = "globe-africa"
   icon_pack = "fas"
   name = "GIS"
-  description = "Spatila insights"
+  description = "Spatial insights"
 
 +++
