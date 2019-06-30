@@ -18,18 +18,18 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Geoinformatics"
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "Trajectories of change"  
 
 [[feature]]
   icon = "globe-africa"
   icon_pack = "fas"
   name = "GIS"
-  description = "80%"
+  description = "Spatila insights"
 
 +++
