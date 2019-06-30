@@ -50,13 +50,12 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+email = "shaun.levick@cdu.edu.au"
+phone = "08 8946 7691"
+address = "College of Engineering, IT & Environment, Y2, Casuarina Campus, NT 0909, Australia"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"
@@ -66,8 +65,6 @@ appointment_url = "https://calendly.com"
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
@@ -110,7 +107,7 @@ plugins_js  = []
 gravatar = false
 
 # Align the main menu to the right of the page? (true/false)
-menu_align_right = false
+menu_align_right = true
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
