@@ -52,13 +52,13 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "shaun.levick@cdu.edu.au"
 phone = "08 8946 7691"
-address = "College of Engineering, IT & Environment, Y2, Casuarina Campus, NT 0909, Australia"
+address = "College of Engineering, IT & Environment, Y2, Darwin, NT 0909, Australia"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
