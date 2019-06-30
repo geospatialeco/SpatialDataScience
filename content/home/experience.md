@@ -39,6 +39,6 @@ date_format = "Jan 2006"
   location = "Jena, Germany"
   date_start = "2012-01-01"
   date_end = "2017-04-30"
-  description = """Led a small "Landscape Processes" research group."""
+  description = """"""
 
 +++
