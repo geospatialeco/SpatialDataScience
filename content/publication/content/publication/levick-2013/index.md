@@ -1,0 +1,13 @@
+---
+title: "The rate and spatial pattern of treefall in a savanna landscape"
+date: 2013-01-01
+publishDate: 2019-06-30T09:52:48.668895Z
+authors: ["S.R. Levick", "G.P. Asner"]
+publication_types: ["2"]
+abstract: "Loss of large trees in savanna parks is of biodiversity conservation concern as trees contribute substantially to system biomass, heterogeneity and ecological functioning. Using airborne light detection and ranging (LiDAR), we monitored 119,775 individual trees in two floristically distinct savanna river catchments (2400ha) over a 2-year period in the Kruger National Park, South Africa. Tree height was unchanged in 77% of monitored trees, but 5% increased and 18% decreased in height by 1m or more. We identified 12,703 trees (10.6%) that were completely toppled during the study period. The average rate of treefall was 2.6 trees ha-1yr-1, and was higher in a river catchment dominated by Acacia species (3.8 trees ha-1yr-1) than in another comprised primarily of Combretum species (2.1 trees ha-1yr-1). The majority of observed treefalls were in the 4-6m height classes where proportions of treefall reached 20%. Spatial patterns of treefall were significantly clustered across the landscapes, with proportional rates of loss exceeding 30% in some hillslope patches. These high rates of tree loss present a challenge to biodiversity conservation and management, as tall tree populations may struggle to persist if these rates are maintained over longer time scales. Field-based measures of species-specific population dynamics need to be coupled with large-scale airborne measurements to provide conservation managers with an integrated view upon which to base decision-making. © 2012 Elsevier Ltd."
+featured: false
+publication: "*Biological Conservation*"
+tags: ["Biodiversity", "Dynamics", "Elephant", "Kruger National Park", "LiDAR", "South Africa", "Spatial", "Treefall"]
+doi: "10.1016/j.biocon.2012.07.009"
+---
+
