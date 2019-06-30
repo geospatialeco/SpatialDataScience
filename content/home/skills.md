@@ -15,6 +15,12 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "globe-africa"
+  icon_pack = "fas"
+  name = "GIS"
+  description = "Spatial insights"
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
@@ -26,10 +32,6 @@ subtitle = ""
   name = "Statistics"
   description = "Trajectories of change"  
 
-[[feature]]
-  icon = "globe-africa"
-  icon_pack = "fas"
-  name = "GIS"
-  description = "Spatial insights"
+
 
 +++
