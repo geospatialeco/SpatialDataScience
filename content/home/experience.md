@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Charles Darwin University"
   company_url = ""
   location = "Darwin, Australia"
-  date_start = "2017-01-01"
+  date_start = "2017-05-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -33,12 +33,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Group Leader"
+  company = "Max Planck institute for Biogeochemistry"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Jena, Germany"
+  date_start = "2012-01-01"
+  date_end = "2017-04-30"
+  description = """Led a small "Landscape Processes" research group."""
 
 +++
