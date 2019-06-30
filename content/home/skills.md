@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
+subtitle = "Research, teaching and consulting expertise"
 
 # Showcase personal skills or business features.
 #
@@ -15,22 +15,23 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "satellite"
+  icon_pack = "fab"
+  name = "Remote Sensing"
+  description = "Earth Observation"
+
+[[feature]]
   icon = "globe-africa"
   icon_pack = "fas"
   name = "GIS"
   description = "Spatial insights"
 
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "Geoinformatics"
 
 [[feature]]
-  icon = "chart-line"
+  icon = "leaf"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "Trajectories of change"  
+  name = "Ecology"
+  description = "Landscape management"  
 
 
 
