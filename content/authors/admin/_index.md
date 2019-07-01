@@ -35,7 +35,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/geospatialeco
-- CSIRO Land and Water
+- name: CSIRO Land and Water
 superuser: true
 user_groups:
 - Researchers
