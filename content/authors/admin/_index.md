@@ -19,7 +19,8 @@ interests:
 - Teaching spatial data science
 name: Shaun R Levick
 organizations:
-- name: Charles Darwin University
+- name: Charles Darwin University"""
+CSIRO Land and Water
   url: ""
 role: Associate Professor
 social:
@@ -35,7 +36,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/geospatialeco
-- name: CSIRO Land and Water
 superuser: true
 user_groups:
 - Researchers
