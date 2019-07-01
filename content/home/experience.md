@@ -33,8 +33,8 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Group Leader"
-  company = "Max Planck institute for Biogeochemistry"
+  title = "Group Leader - Landscape Processes"
+  company = "Max Planck Institute for Biogeochemistry"
   company_url = ""
   location = "Jena, Germany"
   date_start = "2012-01-01"
