@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Associate Professor"
-  company = "Charles Darwin University"
+  company = "Charles Darwin University & CSIRO Land and Water"
   company_url = ""
   location = "Darwin, Australia"
   date_start = "2017-05-01"
@@ -27,9 +27,10 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
 
-  * Research
-  * Teaching
-  * Supervision
+  * Ecological remote sensing research
+  * Geospatial consulting
+  * Spatial data analytics teaching
+  * Supervision of PhD students
   """
 
 [[experience]]
