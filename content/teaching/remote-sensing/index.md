@@ -1,18 +1,20 @@
 ---
+authors:
+- admin
+categories: []
+date: "2019-04-20T00:00:00Z"
+draft: false
+featured: false
+gallery_item:
+- album: gallery
+  caption: Default
+  image: featured.png
+projects: []
 title: ENV202 / 505
 summary: Introductory remote sensing
 tags:
 - remote sensing
 - earth observation
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link:
-
-image:
-  caption: Terrestrial laser scanning
-  focal_point: Smart
----
 
 
 ---
