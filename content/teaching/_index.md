@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Teaching
 
 # View.
 #   1 = List
