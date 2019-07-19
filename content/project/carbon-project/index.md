@@ -26,4 +26,4 @@ url_video: ""
 
 ---
 
-This project aims to improve estimates of live and dead woody palnt biomass in savanna ecosystems, using new developments in terrestrial laser scalling (TLS) and machine learning.
+This project aims to improve estimates of live and dead woody plant biomass in savanna ecosystems, using new developments in terrestrial laser scanning (TLS) and machine learning.
