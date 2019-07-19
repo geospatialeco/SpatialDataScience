@@ -3,7 +3,7 @@ title: ENV202 / 505
 summary: Introductory remote sensing
 tags:
 - remote sensing
-- earth observatio
+- earth observation
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
