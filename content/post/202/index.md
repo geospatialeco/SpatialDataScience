@@ -15,7 +15,9 @@ summary: Introductory Remote Sensing
 tags:
 - remote sensing
 - earth observation
-
+- Google Earth Engine
+- GEE
+- cloud-computing
 
 ---
 
