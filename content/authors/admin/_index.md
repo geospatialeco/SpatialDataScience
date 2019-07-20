@@ -41,4 +41,4 @@ user_groups:
 - Visitors
 ---
 
-My research uses remote sensing and spatial data analytics to improve land management outcomes in tropical ecosystems. Research interests include fire ecology, natural capital accounting, landscape rehabilitation, and computer vision for science communication.
+My research programme uses remote sensing and spatial data analytics to improve land management outcomes in tropical ecosystems. Key interests include fire ecology, natural capital accounting, landscape rehabilitation, and computer vision for science communication.
