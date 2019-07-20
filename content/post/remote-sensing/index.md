@@ -10,15 +10,22 @@ gallery_item:
   caption: Default
   image: featured.png
 projects: []
-title: ENV202 / 505
-summary: Introductory remote sensing
+title: ENV306 / 506
+summary: Environmental Monitoring and Modelling
 tags:
 - remote sensing
-- earth observation
+- time-series analysis
+- change detection
+- landscape ecology
+- scale
 
 
 ---
 
-The aim of this unit is to provide an introduction to the theory and practice of using remotely sensed data for environmental mapping, monitoring and management applications. The unit incorporates lecture and practical materials, both of which are integral to gaining a thorough understanding of the art and science of remote sensing. Students will learn about the interactions of light with different environmental features, electromagnetic radiation, multispectral and hyperspectral imagery, RADAR, LiDAR, digital image processing, object-based image analysis, and various operational applications of the technology. Students will also gain basic working knowledge of the R programming language.
+This unit brings together the theoretical concepts of landscape ecology with spatial analysis techniques from remote sensing and GIS to address landscape scale applications of relevance to natural resource management. Landscape ecology is concerned with spatial patterns, in particular spatial heterogeneity across landscapes, the spatial and temporal arrangement of features, and the implications of this patterning for ecosystems. This unit takes a practical approach to look at how landscape analysis can be used to quantify pattern to generate land cover and habitat maps using digital image processing techniques and explores spatial pattern analysis techniques in the form of landscape metrics using local applications. Important issues such as scale, data integration errors and natural variability in landscapes are addressed in terms of classifying landscape features and identifying temporal changes.
+
+​
+
+This course utilises the Google Earth Engine processing environment for handling large datasets and for analysing trends in rich time-series. Basic Javascript programming is also covered
 
 ​
