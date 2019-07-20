@@ -25,5 +25,7 @@ The aim of this unit is to provide an introduction to the theory and practice of
 
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLf6lu3bePWHDi3-lrSqiyInMGQXM34TSV)
 
+## First practical tutorial
 
+{{< youtube vDKLHXb-2HA >}}
 ​
