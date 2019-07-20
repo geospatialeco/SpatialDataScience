@@ -10,7 +10,7 @@ gallery_item:
   caption: Default
   image: featured.png
 projects: []
-title: ENV306 / 506
+title: ENV 306 / 506
 summary: Environmental Monitoring and Modelling
 tags:
 - remote sensing
