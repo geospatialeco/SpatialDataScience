@@ -28,9 +28,9 @@ date_format = "Jan 2006"
   Responsibilities include:
 
   * Ecological remote sensing research
-  * Geospatial consulting
   * Spatial data analytics teaching
   * Supervision of PhD students
+  * Geospatial consulting
   """
 
 [[experience]]
