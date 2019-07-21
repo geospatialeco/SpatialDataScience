@@ -30,7 +30,8 @@ This course utilises the Google Earth Engine processing environment for handling
 
 ## Upcoming course Sept-Nov 2019
 
-This course is delivered fully online with a one week practical intensive (28 Oct - 1 Nov).
+This course is delivered fully online with a one week practical intensive
+- 28 Oct - 1 Nov
 
 [Contact CDU for enrolment details](https://www.cdu.edu.au/study/essentials/how-to-apply)
 
