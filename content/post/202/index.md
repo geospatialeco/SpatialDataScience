@@ -10,8 +10,8 @@ gallery_item:
   caption: Default
   image: featured.png
 projects: []
-title: ENV 202 / 502
-summary: Introductory Remote Sensing
+title: Introductory Remote Sensing
+summary: ENV 202 / 502
 tags:
 - remote sensing
 - earth observation

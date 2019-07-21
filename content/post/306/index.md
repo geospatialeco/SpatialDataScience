@@ -10,8 +10,8 @@ gallery_item:
   caption: Default
   image: featured.png
 projects: []
-title: ENV 306 / 506
-summary: Environmental Monitoring and Modelling
+title: Environmental Monitoring and Modelling
+summary: ENV 306 / 506
 tags:
 - remote sensing
 - time-series analysis
