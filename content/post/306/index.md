@@ -28,4 +28,10 @@ This unit brings together the theoretical concepts of landscape ecology with spa
 
 This course utilises the Google Earth Engine processing environment for handling large datasets and for analysing trends in rich time-series. Basic Javascript programming is also covered
 
+## Upcoming course Sept-Nov 2019
+
+Course is delivered fully online with a one week practical intensive (28 Oct - 1 Nov)
+
+[Contact CDU for enrolment details](https://www.cdu.edu.au/study/essentials/how-to-apply)
+
 ​
