@@ -16,7 +16,7 @@ baseurl = "https://shaunlevick.com/"
 copyright = "Shaun Levick"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-39909188-3"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
