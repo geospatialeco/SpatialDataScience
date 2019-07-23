@@ -1,3 +1,22 @@
+---
+title: Introduction to Remote Sensing of the Environment
+summary: Lab 1 - Getting started with Google Earth Engine
+
+date: "2019-03-01T00:00:00Z"
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+---
+
+
+
 ![Shaun Levick](Logo3.png)
 GEARS - Geospatial Engineering and Remote Sensing lab - https://www.gears-lab.com
 
