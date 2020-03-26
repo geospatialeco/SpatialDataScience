@@ -21,8 +21,7 @@ name: Shaun R Levick
 organizations:
 - name: CSIRO Land and Water
   url: ""
-role: Associate Professor
-social:
+role: Principal Research Scientist
 - icon: envelope
   icon_pack: fas
   link: '#contact'
