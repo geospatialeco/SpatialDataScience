@@ -19,7 +19,7 @@ interests:
 - Teaching spatial data science
 name: Shaun R Levick
 organizations:
-- name: Charles Darwin University & CSIRO Land and Water
+- name: CSIRO Land and Water
   url: ""
 role: Associate Professor
 social:
@@ -41,4 +41,4 @@ user_groups:
 - Visitors
 ---
 
-My research programme uses remote sensing and spatial data analytics to improve land management outcomes in tropical ecosystems. Key interests include fire ecology, natural capital accounting, landscape rehabilitation, and computer vision for science communication.
+My research uses remote sensing and spatial data analytics to improve land management outcomes in tropical ecosystems. Key interests include fire ecology, natural capital accounting, landscape rehabilitation, and computer vision for science communication.
