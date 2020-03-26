@@ -16,7 +16,7 @@ interests:
 - Geoinformatics
 - Landscape ecology
 - Earth Observation
-- Communicating spatial data science
+- Teaching and communicating spatial data science
 name: Shaun R Levick
 organizations:
 - name: CSIRO Land and Water
