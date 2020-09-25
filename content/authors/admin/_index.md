@@ -19,9 +19,9 @@ interests:
 - Teaching and communicating spatial data science
 name: Shaun R Levick
 organizations:
-- name: CSIRO Land and Water
+- name: CSIRO
   url: ""
-role: Principal Research Scientist
+role: Principal Research
 - icon: envelope
   icon_pack: fas
   link: '#contact'
