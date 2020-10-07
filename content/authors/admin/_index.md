@@ -1,6 +1,17 @@
 ---
+name: Shaun R Levick
+
 authors:
 - admin
+
+superuser: true
+
+role: Principal Research Scientist
+
+organizations:
+- name: CSIRO
+  url: ""
+
 bio: I am a geospatial ecologist who uses remote sensing and spatial data analytics to improve land management outcomes in tropical ecosystems. My research focusses on natural capital accounting, biodiversity analytics, landscape rehabilitation, and computer vision for science communication.
 
 teaching:
@@ -20,15 +31,7 @@ interests:
 - Earth Observation
 - Teaching and communicating spatial data science
 
-name: Shaun R Levick
 
-organizations:
-- name: CSIRO
-- url: ""
-
-superuser: true
-
-role: Principal Research Scientist
 - icon: envelope
   icon_pack: fas
   link: '#contact'
