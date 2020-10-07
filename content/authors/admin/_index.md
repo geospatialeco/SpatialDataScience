@@ -10,7 +10,7 @@ role: Principal Research Scientist
 
 organizations:
 - name: CSIRO
-  url: ""
+  url: "https://people.csiro.au/L/S/Shaun-Levick"
 
 social:
 - icon: envelope
