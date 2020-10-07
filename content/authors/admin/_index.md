@@ -43,9 +43,6 @@ interests:
 - Earth Observation
 - Teaching and communicating spatial data science
 
-
-
-
 user_groups:
 - Researchers
 - Visitors
