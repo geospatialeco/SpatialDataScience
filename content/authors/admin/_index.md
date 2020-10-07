@@ -7,7 +7,6 @@ authors:
 superuser: true
 
 role: Principal Research Scientist
-
 organizations:
 - name: CSIRO
   url: ""
