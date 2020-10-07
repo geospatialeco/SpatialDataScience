@@ -29,6 +29,7 @@ organizations:
 superuser: true
 
 role: Principal Research Scientist
+
 - icon: envelope
   icon_pack: fas
   link: '#contact'
