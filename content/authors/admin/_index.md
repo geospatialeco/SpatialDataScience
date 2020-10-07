@@ -11,6 +11,19 @@ organizations:
 - name: CSIRO
   url: ""
 
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/shaunlevick
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=AEiDjQYAAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/geospatialeco
+
 bio: I am a geospatial ecologist who uses remote sensing and spatial data analytics to improve land management outcomes in tropical ecosystems. My research focusses on natural capital accounting, biodiversity analytics, landscape rehabilitation, and computer vision for science communication.
 
 teaching:
@@ -31,18 +44,7 @@ interests:
 - Teaching and communicating spatial data science
 
 
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/shaunlevick
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=AEiDjQYAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/geospatialeco
+
 
 user_groups:
 - Researchers
