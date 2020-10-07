@@ -25,7 +25,7 @@ name: Shaun R Levick
 organizations:
 - name: CSIRO
 - url: ""
-  
+
 superuser: true
 
 role: Principal Research Scientist

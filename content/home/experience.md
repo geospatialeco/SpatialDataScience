@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Principal Research Scientist"
   company = "CSIRO Land and Water"
@@ -29,9 +30,9 @@ date_format = "Jan 2006"
 
   * Earth observation ecology
   * Project leadership
-  * Spatial data analytics 
+  * Spatial data analytics
   * Geospatial consulting
-
+"""
 
 [[experience]]
   title = "Associate Professor"
@@ -56,6 +57,6 @@ date_format = "Jan 2006"
   location = "Jena, Germany"
   date_start = "2012-01-01"
   date_end = "2017-04-30"
-  description = """"""
-
+  description = """
+"""
 +++
