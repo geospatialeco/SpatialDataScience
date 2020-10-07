@@ -7,10 +7,12 @@ authors:
 superuser: true
 
 role: Principal Research Scientist
+
 organizations:
 - name: CSIRO
   url: ""
 
+social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'

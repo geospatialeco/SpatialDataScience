@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Skills"
-subtitle = "Research, teaching and consulting expertise"
+subtitle = "Research and consulting expertise"
 
 # Showcase personal skills or business features.
 #
