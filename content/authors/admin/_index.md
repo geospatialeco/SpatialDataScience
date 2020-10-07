@@ -24,8 +24,10 @@ name: Shaun R Levick
 
 organizations:
 - name: CSIRO
-  url: ""
+- url: ""
+  
 superuser: true
+
 role: Principal Research Scientist
 - icon: envelope
   icon_pack: fas
