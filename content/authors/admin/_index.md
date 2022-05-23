@@ -31,13 +31,10 @@ bio: I am a geospatial ecologist who uses remote sensing and spatial data analyt
 teaching:
   courses:
   - course: Remote Sensing
-    institution: ENV 202 / 502
-    year:
   - course: Environmental Monitoring
-    institution: ENV 306 / 506
-    year:
 
-email: ""
+
+email: "shaun@shaunlevick.com"
 
 interests:
 - Geoinformatics
