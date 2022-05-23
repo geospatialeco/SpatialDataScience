@@ -11,7 +11,6 @@ gallery_item:
   image: featured.png
 projects: []
 title: Introductory Remote Sensing
-summary: ENV 202 / 502
 tags:
 - remote sensing
 - earth observation
@@ -21,13 +20,12 @@ tags:
 
 ---
 
-The aim of this unit is to provide an introduction to the theory and practice of using remotely sensed data for environmental mapping, monitoring and management applications. The unit incorporates lecture and practical materials, both of which are integral to gaining a thorough understanding of the art and science of remote sensing. Students will learn about the interactions of light with different environmental features, electromagnetic radiation, multispectral and hyperspectral imagery, RADAR, LiDAR, digital image processing, object-based image analysis, and various operational applications of the technology. Students will also gain basic working knowledge of the R programming language.
+The aim of this course is to provide an introduction to the theory and practice of using remotely sensed data for environmental mapping, monitoring and management applications. The unit incorporates lecture and practical materials, both of which are integral to gaining a thorough understanding of the art and science of remote sensing. Students will learn about the interactions of light with different environmental features, electromagnetic radiation, multispectral and hyperspectral imagery, RADAR, LiDAR, digital image processing, object-based image analysis, and various operational applications of the technology.
 
-## Guided video tutorials for this course
+## Available on YouTube
 
-[YouTube Playlist](https://www.youtube.com/playlist?list=PLf6lu3bePWHDi3-lrSqiyInMGQXM34TSV)
+This course content is available online with step-by-step instructional videos:
 
-## First practical tutorial
+[Watch here](https://www.youtube.com/playlist?list=PLf6lu3bePWHDi3-lrSqiyInMGQXM34TSV)
 
-{{< youtube vDKLHXb-2HA >}}
 ​
